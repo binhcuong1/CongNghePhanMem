@@ -1,1 +1,2 @@
 Code class Score gồm các thuộc tính như thiết kế
+Chạy code entity để binding ra bảng CSDL
