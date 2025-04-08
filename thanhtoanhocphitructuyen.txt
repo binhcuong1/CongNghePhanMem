@@ -1,3 +1,4 @@
 Code class Invoice và Transaction
 Chạy Entity Framework để binding CSDL
 Viết code xử lý thanh toán
+Viết code giao diện
