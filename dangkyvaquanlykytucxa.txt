@@ -1,0 +1,6 @@
+Code class DormRoom và Registration.
+Binding CSDL.
+Viết code xử lý
+Viết code giao diện
+Liên kết giao diện và xử lý.
+Viết unit test.
