@@ -1,3 +1,4 @@
 Code class ScholarshipApplication.
 Binding CSDL.
 Viết code xử lý.
+Viết code giao diện.
