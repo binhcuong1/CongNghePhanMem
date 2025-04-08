@@ -7,3 +7,4 @@ Viết unit test
 Viết test case
 Kiểm thử tay
 Đóng gói
+User Accept Test
