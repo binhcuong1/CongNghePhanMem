@@ -5,3 +5,4 @@ Viết code giao diện hiển thị danh sách điểm
 Liên kết giữa giao diện và xử lý
 Viết unit test
 Viết test case
+Kiểm thử tay
