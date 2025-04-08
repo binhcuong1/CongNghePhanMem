@@ -1,1 +1,2 @@
 Code hàm lấy dữ liệu từ bảng Score
+Viết code xử lý tạo file PDF/Excel
