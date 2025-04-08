@@ -1,0 +1,1 @@
+Code hàm lấy dữ liệu từ bảng Score
