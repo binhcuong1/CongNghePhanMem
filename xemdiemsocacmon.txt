@@ -2,3 +2,4 @@ Code class Score gồm các thuộc tính như thiết kế
 Chạy code entity để binding ra bảng CSDL
 Viết code xử lý lấy dữ liệu điểm từ CSDL
 Viết code giao diện hiển thị danh sách điểm
+Liên kết giữa giao diện và xử lý
