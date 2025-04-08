@@ -1,2 +1,3 @@
 Code hàm lấy dữ liệu từ bảng Score
 Viết code xử lý tạo file PDF/Excel
+Viết code giao diện với nút "In bảng điểm"
