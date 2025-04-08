@@ -1,1 +1,3 @@
 Code class Invoice và Transaction
+Chạy Entity Framework để binding CSDL
+
