@@ -3,3 +3,4 @@ Chạy code entity để binding ra bảng CSDL
 Viết code xử lý tính toán tiến độ
 Viết code giao diện hiển thị tiến độ
 Liên kết giữa giao diện và xử lý
+Viết unit test
