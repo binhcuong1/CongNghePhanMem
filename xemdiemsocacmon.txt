@@ -6,3 +6,4 @@ Liên kết giữa giao diện và xử lý
 Viết unit test
 Viết test case
 Kiểm thử tay
+Đóng gói
