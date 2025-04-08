@@ -1,2 +1,3 @@
 Code class DormRoom và Registration.
 Binding CSDL.
+Viết code xử lý
