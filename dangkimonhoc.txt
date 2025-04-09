@@ -1,0 +1,2 @@
+Code class Course và Enrollment.
+Chạy Entity Framework để tạo bảng CSDL.
