@@ -1,2 +1,3 @@
 Code class Course.
 Chạy Entity Framework để tạo bảng CSDL.
+Viết code xử lý.
