@@ -1,0 +1,6 @@
+Code class Schedule.
+Chạy Entity Framework để tạo bảng CSDL.
+Viết code xử lý lấy dữ liệu lịch học.
+Viết code giao diện hiển thị lịch.
+Liên kết giao diện và xử lý.
+Viết unit test.
