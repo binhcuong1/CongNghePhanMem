@@ -1,1 +1,2 @@
 Code class Class.
+Chạy Entity Framework.
