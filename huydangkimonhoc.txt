@@ -2,3 +2,4 @@ Cập nhật class Course và Enrollment.
 Chạy Entity Framework để tạo bảng CSDL.
 Viết code xử lý logic hủy đăng ký.
 Viết code giao diện.
+Liên kết giao diện và xử lý.
