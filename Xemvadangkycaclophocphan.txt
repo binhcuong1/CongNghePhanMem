@@ -1,2 +1,3 @@
 Code class Class.
 Chạy Entity Framework.
+Viết code xử lý, giao diện, liên kết.
