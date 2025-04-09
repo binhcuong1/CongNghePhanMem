@@ -1,0 +1,6 @@
+Code class Course và Enrollment.
+Chạy Entity Framework để tạo bảng CSDL.
+Viết code xử lý logic đăng ký.
+Viết code giao diện.
+Liên kết giao diện và xử lý.
+Viết unit test.
