@@ -1,1 +1,2 @@
 Code class SpecialCourse và Registration.
+Chạy Entity Framework.
