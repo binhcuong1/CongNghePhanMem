@@ -1,2 +1,3 @@
 Code class User
 Chạy Entity Framework để tạo bảng
+Viết code xử lý
