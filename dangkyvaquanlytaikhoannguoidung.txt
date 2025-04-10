@@ -2,3 +2,4 @@ Code class User
 Chạy Entity Framework
 Viết code xử lý
 Thiết kế giao diện
+Liên kết giao diện với backend
