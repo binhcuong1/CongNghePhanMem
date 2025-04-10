@@ -1,3 +1,4 @@
 Code class Student
 Chạy Entity Framework
 Viết code xử lý
+Thiết kế giao diện
