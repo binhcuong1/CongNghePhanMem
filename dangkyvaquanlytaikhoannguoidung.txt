@@ -1,2 +1,3 @@
 Code class User
 Chạy Entity Framework
+Viết code xử lý
